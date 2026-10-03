@@ -1,4 +1,8 @@
 # Respaldos automáticos de Blender
 *.blend1
-#Informacion de contacto
-contactos.txtdesktop.ini
+
+# Información de contacto
+contactos.txt
+
+# Archivos de Google Drive
+desktop.ini
