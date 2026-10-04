@@ -5,7 +5,7 @@ Usamos IA (Claude, de Anthropic, mediante Claude Code) como herramienta de apoyo
 ## En qué la usamos
 
 **1. Tareas que sobrepasaban nuestros conocimientos**
-- Cálculo de orientación y zonas de sombra del patio (`calculos/sombra_orientacion.py`).
+- Calculos de la fuerza del viento sobre la lona
 - Recomendaciones estructurales: postes, anclajes y bases. Pedimos siempre la opción con más margen de seguridad.
 - Modelado y renders en Blender (`calculos/`).
 
